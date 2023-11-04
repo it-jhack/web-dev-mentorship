@@ -7,7 +7,7 @@ Differently from a college or university program that builds a theoretical knowl
 **Frontend backbone**
 - [HTML](./html)
 - JavaScript
-- CSS
+- [CSS](./css)
 
 **Project versioning**
 - Git
