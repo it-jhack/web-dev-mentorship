@@ -5,7 +5,7 @@ Differently from a college or university program that builds a theoretical knowl
 ## Roadmap
 
 **Frontend backbone**
-- [HTML](./html)
+- HTML
 - JavaScript
 - [CSS](./css)
 
